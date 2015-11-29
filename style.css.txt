@@ -1,0 +1,18 @@
+/*
+ Theme Name:     DailyTheme Child Theme
+ Theme URI:      http://verynegative.com/
+ Description:    DailyTheme Child Theme
+ Author:         Very Negative
+ Author URI:     http://verynegative.com
+ Template:       Daily
+ Version:        1.0.0
+*/
+
+@import url("../daily/style.css");
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+
+add_theme_support( 'post-thumbnails' );
+
