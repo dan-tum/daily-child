@@ -12,3 +12,35 @@
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
+
+img {
+	padding: 5px;
+	max-height: 1000px;
+	width: auto;
+}
+
+.container {
+	max-width: 1090px;
+}
+
+.container p {
+	padding-left: 105px;
+	padding-right: 105px;
+}
+
+.home .entry-content {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.read-more {
+	padding: 15px;
+}
+
+.home .entry-content p {
+	text-align: left;
+}
+
+img.mfp-img {
+	padding: 5px 0px 5px;
+}
