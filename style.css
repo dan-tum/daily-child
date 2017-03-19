@@ -50,5 +50,9 @@ img.mfp-img {
 		padding-left: 0px;
 		padding-right: 0px;
 	}
+	img {
+		padding-right: 0px;
+		padding-left: 0px;
+	}
 	
 }
