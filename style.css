@@ -44,3 +44,11 @@ img {
 img.mfp-img {
 	padding: 5px 0px 5px;
 }
+
+@media screen and (max-width: 37.5em) {
+	.container {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	
+}
