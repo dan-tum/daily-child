@@ -17,10 +17,29 @@
 .main-navigation {
   padding-top: 10px; }
 
-.logo img {
-	padding-top: 0px;
-	max-width: 50px;
+
+
+.site-header {
+
+  padding-left: 3em;
+  padding-right: 3em;
+  height: 40px;
 }
+
+.page .site-header,
+.home.paged .site-header,
+.site-header {
+  padding-left: 3em;
+  padding-right: 3em;
+  height: 40px;
+   }
+
+.logo img {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 40px;
+}
+
 
 .site-header {
 	height: 40px;
