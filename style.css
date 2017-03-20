@@ -18,7 +18,6 @@
   padding-top: 1.2em; }
 
 .site-header {
-
   padding-left: 3em;
   padding-right: 3em;
   height: 40px;
@@ -30,24 +29,13 @@
   padding-left: 3em;
   padding-right: 3em;
   height: 40px;
-   }
+}
 
 .logo img {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	height: 40px;
 }
-
-
-.site-header {
-	height: 40px;
-}
-
-/*img {
-	padding: 5px;
-	max-height: 1000px;
-	width: auto;
-}*/
 
 .container {
 	max-width: 1090px;
@@ -84,5 +72,4 @@ img.mfp-img {
 		padding-right: 0px;
 		padding-left: 0px;
 	}
-	
 }
