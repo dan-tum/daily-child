@@ -72,4 +72,12 @@ img.mfp-img {
 		padding-right: 0px;
 		padding-left: 0px;
 	}
+
+	.main-navigation ul {
+		display: block;
+	}
+
+	.menu-toggle {
+		display: none;
+	}
 }
