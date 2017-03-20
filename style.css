@@ -17,6 +17,15 @@
 .main-navigation {
   padding-top: 10px; }
 
+.logo img {
+	padding-top: 0px;
+	max-width: 50px;
+}
+
+.main-navigation {
+	height: 40px;
+}
+
 /*img {
 	padding: 5px;
 	max-height: 1000px;
