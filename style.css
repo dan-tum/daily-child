@@ -13,6 +13,13 @@
 /* =Theme customization starts here
 ------------------------------------------------------- */
 
+.container p a {
+	text-decoration: underline;
+}
+
+.container p a:hover {
+	font-weight: bold;
+}
 
 .main-navigation {
   padding-top: 1.2em; }
