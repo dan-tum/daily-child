@@ -13,6 +13,10 @@
 /* =Theme customization starts here
 ------------------------------------------------------- */
 
+
+.main-navigation {
+  padding-top: 10px; }
+
 /*img {
 	padding: 5px;
 	max-height: 1000px;
